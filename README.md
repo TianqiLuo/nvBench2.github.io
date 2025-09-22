@@ -1,8 +1,12 @@
-# nvBench 2.0: A Benchmark for Natural Language to Visualization under Ambiguity
+
+# nvBench 2.0
 
 This repository contains the source code and data for the nvBench 2.0 benchmark, designed to evaluate Natural Language to Visualization (NL2VIS) systems in scenarios involving ambiguous queries.
 
-## Update Data Repo in Hugging Face :hugs: : [nvBench2.0](https://huggingface.co/datasets/TianqiLuo/nvBench2.0)
+# NEWS
+- 🔥[NeurIPS'25] nvBench 2.0: Resolving Ambiguity in Text-to-Visualization through Stepwise Reasoning
+- 🔥Data Repo in Hugging Face :hugs: : [nvBench2.0](https://huggingface.co/datasets/TianqiLuo/nvBench2.0)
+
 
 ## Introduction
 
